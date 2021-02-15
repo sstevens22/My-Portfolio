@@ -78,28 +78,12 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url(../Images/MyPortHero.jpg);
+    background-image: url(../Images/MyPortNew.jpg);
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
-/* .hero.video#bgvideo {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    background: url(StillFromHero.jpg) no-repeat;
-    background-size: cover;
-    } */
 /* Hero Style End */
 
 .hero-form {
@@ -169,46 +153,26 @@ section {
 
 .section-title {
     font-size: 55px;
-    color: #024e76;
+    color: #8773e0;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
 }
 .primary-border {
-    border-color: #fce138;
+    border-color: #00bef8;
 }
 .secondary-border {
     border-color: #39a6b2;
 }
-/* .steps div {
-    margin-bottom: 80px;
-}
-.steps img {
-    width: 15%;
-    margin: 10px 0;
-}
-.steps h3 {
-    color: #024e76;
-    font-size: 46px;
-    margin-top: 10px;
-}
-.steps p {
-    color: #39a6b2;
-    font-size: 23px;
-}
-.steps span {
-    font-size: 38px;
-} */
-.trainers {
-    text-align: center;
-}
+
 .trainer {
-    width: 900px;
-    margin: 0 auto 30px auto;
-    background: #024e76;
-    color: #fce138;
+    width: 800px;
+    margin: 0 1000px 30px 100px;
+    background: #39a6b2;
+    color: #ffffff;
     overflow: auto;
+    
 }
 .trainer img {
     width: 35%;
@@ -243,7 +207,7 @@ section {
     background: #024e76;
 }
 .contact h2 {
-    color: #fce138;
+    color: #ffffff;
 }
 .contact-info iframe {
     width: 400px;
